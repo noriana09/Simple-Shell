@@ -1,4 +1,4 @@
-# 🐚 Simple Shell (hy345sh)
+# 🐚 Simple Shell
 
 A simple shell implementation for the **Operating Systems (HY345)** course. This shell supports basic command execution, piping, input/output redirection, and global variables.
 
